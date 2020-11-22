@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to my page
 
-You can use the [editor on GitHub](https://github.com/lizlaw/lizlaw.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This site is under (long-term) "construction". For now, see either [my github repositories](https://github.com/lizlaw) for, surprise, my github repositories, or [my workingconservation](https://workingconservation.wordpress.com) for info about my work.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For now, I'll use this site as a log of MoonBoard problems that I have completed - because I've found it really difficult to find lists of problems for somewhat vertically challenged (160cm) V3 level climbers who want to start out on the MoonBoard to get better. 
 
-### Markdown
+These are in approximate order of completion, whatever that really means. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Some tips that have helped me so far:
 
-```markdown
-Syntax highlighted code block
+* Try and keep a foot on, especially when doing more dynamic moves. Press my toe down into the back of the hold, if possible.
+* Pinch holds, rather than drag, where possible.
+* Often I need to set a higher foot than ideal for my current position (or set a foot that I would otherwise flag) - to make the position I am moving to easier to hold.
+* If my feet cut, get them back on ASAP. 
+* Just try harder.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lizlaw/lizlaw.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###"V3" 
+**Do it for the scrunch** - One of my first MB sucesses, smaller climbers might ask, what scrunch??
+**For tiny climbers** - Nice 'easy' one up the middle of the board
+**Girls just wanna have fun** - A slightly easier introduction of the left-to-right diagonal of the board.
+**Lättplätt** - Lots of holds, but feels a bit scrunchy, even for me.  
+**Trying to make the moon easy** - Similar to Lättplätt, but on the LHS.
+**Damn easy** - Somewhat true to it's name. I kept falling off the bottom until I brought my feet up to the top row of footchips.
+**Squirrel drool** - An introduction to the H12-I15 'pop'
+**Kat in the hat** - A classic left-to-right diagonal, with a delicate middle. 
+**Für Alois** - One of my hardest so far - requiring recovering from when my feet cut going form B8-E10, and the little 'crossover' in the middle took some work (I match hands on most of the lower holds, I can't hold the crossover otherwise).
