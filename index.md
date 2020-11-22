@@ -4,6 +4,8 @@ This site is under (long-term) "construction". For now, see either [my github re
 
 For now, I'll use this site as a log of MoonBoard problems that I have completed - because I've found it really difficult to find lists of problems for somewhat vertically challenged (160cm) V3 level climbers who want to start out on the MoonBoard to get better. 
 
+These are for the 2019 setup with all hold sets.
+
 These are in approximate order of completion, whatever that really means. 
 
 Some tips that have helped me so far:
@@ -15,6 +17,7 @@ Some tips that have helped me so far:
 * Just try harder.
 
 ###"V3" 
+
 **Do it for the scrunch** - One of my first MB sucesses, smaller climbers might ask, what scrunch??
 **For tiny climbers** - Nice 'easy' one up the middle of the board
 **Girls just wanna have fun** - A slightly easier introduction of the left-to-right diagonal of the board.
