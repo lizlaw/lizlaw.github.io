@@ -2,7 +2,7 @@
 
 This site is under (long-term) "construction". For now, see either [my github repositories](https://github.com/lizlaw) for, surprise, my github repositories, or [my workingconservation](https://workingconservation.wordpress.com) for info about my work.  
 
-For now, I'll use this site as a log of MoonBoard problems that I have completed - because I've found it really difficult to find lists of problems for somewhat vertically challenged (160cm) V3 level climbers who want to start out on the MoonBoard to get better. 
+For now, I'll use this site as a log of MoonBoard problems that I have completed - because I've found it really difficult to find lists of problems for somewhat vertically challenged V3 level climbers who want to start out on the MoonBoard to get better. For the record, I am 160cm, female, not particularly young or strong, and not at all wraith-like. My somewhat arthritic fingers mean I can't/don't full-crimp, and I have to schedule a lot of recovery into my climbing week. Also, for the record, I know this page is not necessarily easy to find, but at least it exists and one day I'll get around to posting the list elsewhere.
 
 These are for the 2019 setup with all hold sets.
 
@@ -10,7 +10,7 @@ These are in approximate order of completion, whatever that really means.
 
 Some tips that have helped me so far:
 
-* Try and keep a foot on, especially when doing more dynamic moves. Press my toe down into the back of the hold, if possible.
+* Try and keep a foot on, especially when doing more dynamic moves. Press my toe down into the back of the hold, avoid cutting feet if at all possible.
 * Pinch holds, rather than drag, where possible.
 * Often I need to set a higher foot than ideal for my current position (or set a foot that I would otherwise flag) - to make the position I am moving to easier to hold.
 * If my feet cut, get them back on ASAP. 
