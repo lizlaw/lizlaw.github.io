@@ -16,14 +16,14 @@ Some tips that have helped me so far:
 * If my feet cut, get them back on ASAP. 
 * Just try harder.
 
-###"V3" 
+### V3 
 
-**Do it for the scrunch** - One of my first MB sucesses, smaller climbers might ask, what scrunch??
-**For tiny climbers** - Nice 'easy' one up the middle of the board
-**Girls just wanna have fun** - A slightly easier introduction of the left-to-right diagonal of the board.
-**Lättplätt** - Lots of holds, but feels a bit scrunchy, even for me.  
-**Trying to make the moon easy** - Similar to Lättplätt, but on the LHS.
-**Damn easy** - Somewhat true to it's name. I kept falling off the bottom until I brought my feet up to the top row of footchips.
-**Squirrel drool** - An introduction to the H12-I15 'pop'
-**Kat in the hat** - A classic left-to-right diagonal, with a delicate middle. 
-**Für Alois** - One of my hardest so far - requiring recovering from when my feet cut going form B8-E10, and the little 'crossover' in the middle took some work (I match hands on most of the lower holds, I can't hold the crossover otherwise).
+* **Do it for the scrunch** - One of my first MB sucesses, smaller climbers might ask, what scrunch??
+* **For tiny climbers** - Nice 'easy' one up the middle of the board
+* **Girls just wanna have fun** - A slightly easier introduction of the left-to-right diagonal of the board.
+* **Lättplätt** - Lots of holds, but feels a bit scrunchy, even for me.  
+* **Trying to make the moon easy** - Similar to Lättplätt, but on the LHS.
+* **Damn easy** - Somewhat true to it's name. I kept falling off the bottom until I brought my feet up to the top row of footchips.
+* **Squirrel drool** - An introduction to the H12-I15 'pop'
+* **Kat in the hat** - A classic left-to-right diagonal, with a delicate middle. 
+* **Für Alois** - One of my hardest so far - requiring recovering from when my feet cut going form B8-E10, and the little 'crossover' in the middle took some work (I match hands on most of the lower holds, I can't hold the crossover otherwise).
